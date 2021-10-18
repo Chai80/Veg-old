@@ -17,3 +17,5 @@ cd into the app
 run "npx hardhat test --network rinkeby" to run the tests
 run "npm hardhat run scripts/demo.js --network rinkeby" to play around with the functionality
 
+contract.json abi needs to be created by user
+
