@@ -1,4 +1,4 @@
-# VeganApp
+#defunct old implementation
 
 Input your Veganniversary upon account creation and we'll mint you a VGN token for each day you've already been vegan -- then every subsequent time you log in to the app, you will be minted a new token for each day since your last login.
   You will also be minted a randomized animal NFT for every 30 days in both cases
